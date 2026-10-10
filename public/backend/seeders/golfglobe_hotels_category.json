@@ -1,0 +1,792 @@
+[
+  {
+    "uuid": "402880ba5d5fbce9015d5fcaea683c41",
+    "name": "Pula Golf Resort",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a5e32c7c9015e3763e15f6e71",
+    "name": "The Westin Resort Costa Navarino",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a5e32c7c9015e387519d84926",
+    "name": "Long Beach - A Sun Resort Mauritius",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a5e32c7c9015ea8fe8e5c40d7",
+    "name": "ROBINSON Club Quinta da Ria",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a5e32c7c9016026d455064210",
+    "name": "Verdura Resort, a Rocco Forte Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a5e32c7c901609819319d5e26",
+    "name": "Las Madrigueras Golf Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a5e32c7c90160f97ba0b53bc7",
+    "name": "Hilton Vilamoura as Cascatas",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a5e32c7c90160f9f1327b3f87",
+    "name": "Pine Cliffs Hotel, a Luxury Collection Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a5e32c7c90161047a2a4249f3",
+    "name": "The Westin Abu Dhabi Golf Resort & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a5e32c7c90161047c4246635c",
+    "name": "Maxx Royal Belek Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a62216f2401622474626d19ea",
+    "name": "Lopesan Costa Meloneras Resort, Spa & Casino",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a62216f2401622474bd8a262c",
+    "name": "Lopesan Villa del Conde Resort & Thalasso",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a62216f2401623da5c1140ba7",
+    "name": "Jardin Tropical",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a62216f2401623e5d8cb506e7",
+    "name": "Casa de Campo Resort & Villas",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a624037fb0162438860dd73a2",
+    "name": "Palacio Estoril",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a62615dea01626166bb341e23",
+    "name": "Royal Óbidos Spa & Golf Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a62615dea016261b6e57a6cdb",
+    "name": "Quinta da Marinha",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a62615dea016262b1d2e03cbb",
+    "name": "The Oitavos",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a62615dea016266d95e793f0f",
+    "name": "Regnum Carya Golf und Spa Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a62615dea016267a29b344ba1",
+    "name": "Aphrodite Hills Hotel",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a627086b4016270d022a61fba",
+    "name": "Almyra Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b4016270f6272e4d5c",
+    "name": "Iberostar Grand Hotel Portals Nous",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b40164efb079097619",
+    "name": "Hard Rock Hotel Tenerife",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b40165c3c55ead36cf",
+    "name": "Hotel Camiral - PGA Catalunya Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b40165d201ed8a0445",
+    "name": "Finca Cortesin Hotel Golf & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b40165d2026f260d93",
+    "name": "Kempinski Hotel Bahía Beach Resort & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b40165e6b15f4764d7",
+    "name": "Thracian Cliffs Golf & Beach Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b401660ab79ee771bd",
+    "name": "Hipotels Barrosa Park",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a627086b401660ab84f487b41",
+    "name": "Hipotels Playa La Barrosa",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a627086b401660b9d689777e8",
+    "name": "Iberostar Royal Andalus",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a627086b401660f9cf0582b0d",
+    "name": "Seaside Palm Beach",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b4016610289a1f4af6",
+    "name": "Monte Rei Golf & Country Club",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b4016614c35b013cae",
+    "name": "Gloria Golf Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a627086b4016614f2d6e268f3",
+    "name": "Gloria Serenity Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a68a348ad0168cd96dc530642",
+    "name": "Kempinski Hotel The Dome Thalasso and Golf Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a68dc1ca20168e1aa4e297c2a",
+    "name": "Cornelia De Luxe Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a68dc1ca20168e210ff6d0c47",
+    "name": "Cornelia Diamond Golf Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a68dc1ca20168e734b1e900ec",
+    "name": "Sirene Belek Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a68dc1ca20168eb5c6a3162ac",
+    "name": "Hipotels Eurotel Punta Rotja",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a68dc1ca20168ec2e9b2c406f",
+    "name": "Donnafugata Golf Resort & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a68dc1ca2016904dc9b8b69b6",
+    "name": "Fairmont Royal Palm Marrakech",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a68dc1ca201695cd5677206f5",
+    "name": "Hotel Jardin Tecina",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a69c8b803016a06739c796e53",
+    "name": "Test_Hotel",
+    "hot_category": 1
+  },
+  {
+    "uuid": "8aef9d8a6b0ea2ed016b4bdfb08d646d",
+    "name": "Paradis Beachcomber Golf Resort & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6b0ea2ed016bb7bda3197bc5",
+    "name": "Sheraton Mallorca Arabella Golf Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bbd2fa2b547d3",
+    "name": "Castillo Hotel Son Vida",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bc161a2c32c48",
+    "name": "Voyage Belek Golf & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bc1967dbb164a",
+    "name": "Titanic Deluxe Golf Belek",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bc219c2ed4c8d",
+    "name": "Hipotels Hipocampo Palace",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bd1ea67b15b2b",
+    "name": "ROBINSON Club Cala Serena",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bd232672f7aee",
+    "name": "Park Hyatt Mallorca",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bd670713363fa",
+    "name": "Iberostar Selection Andalucía Playa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bd69abc5475d8",
+    "name": "Salobre Hotel Resort & Serenity",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bdafc9a532b2e",
+    "name": "Heritage Le Telfair Golf & Wellness Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bdbdc892b58e1",
+    "name": "Trump National Doral Miami",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6bbcee0b016bff08d7e93aa9",
+    "name": "Marriott´s Club Son Antem",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016c51a44acf489a",
+    "name": "Hipotels Hipocampo Playa",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016c615051ec19b0",
+    "name": "Elba Costa Ballena Beach & Thalasso Resort",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016caedcb4fe42dd",
+    "name": "La Badira Hammamet",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016d5cf7d4bb4d15",
+    "name": "Praia d'el Rey Marriott Golf & Beach Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016e921a42a027cb",
+    "name": "Dona Filipa Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016e928e420560a4",
+    "name": "Onyria Palmares Beach House Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016ea174bdf916be",
+    "name": "Portmarnock Hotel & Golf Links",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016ead14e5f0409e",
+    "name": "Druids Glen Hotel & Golf",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016ead7d5ae90a54",
+    "name": "Rosapenna Hotel & Golf Resort",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016eb17b8cc66566",
+    "name": "Park Hyatt Abu Dhabi",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6c43b2fc016eb6de3ed8409e",
+    "name": "Iberostar Club Palmeraie Marrakech",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016ec622ed342a6f",
+    "name": "Kenzi Menara Palace",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016ec63fc8d25e9b",
+    "name": "Mövenpick Mansour Eddahbi Marrakech",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016ee9e65c683d4c",
+    "name": "Be Live Collection Adults Only Marrakech",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016eea25ef955a09",
+    "name": "Villa Padierna Palace Benhavis Marbella Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016f4614e2dd0079",
+    "name": "Elba Estepona Gran Hotel & Thalasso Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016f46668a1478fe",
+    "name": "Hotel Fuerte Estepona",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016f46d7f9a73375",
+    "name": "Hotel Fuerte Marbella",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016f474bd6165769",
+    "name": "La Cala Golf Resort und Spa",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016f853da68821a9",
+    "name": "Courtyard by Mariott Charleston Waterfront",
+    "hot_category": 3
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016f8abb971b6ae4",
+    "name": "Marina Inn at Grande Dunes",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016f8ae2adb82911",
+    "name": "Legends Golf Resort Villas",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016f8e722b25448e",
+    "name": "Kiawah Island Resort Villas",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016f9f1963134cb5",
+    "name": "Sofitel Marrakech Palais Imperial",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016fa83826b84038",
+    "name": "Sofitel Lounge & Spa Marrakech",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016fa8b9db4c68a3",
+    "name": "Park Hyatt Dubai",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b016fc802653f7518",
+    "name": "Terre Blanche Hôtel Spa Golf Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a6ec5ed2b017038be75f171c0",
+    "name": "AMA Islantilla Resort",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a71353a2c0171e96e181555c8",
+    "name": "Schlosshotel Fleesensee",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a71353a2c01720cebc9585b04",
+    "name": "Golfhotel Vesper",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a71353a2c017212468f9c0e67",
+    "name": "ROBINSON Club Agadir",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a71353a2c0172181046a15138",
+    "name": "ROBINSON Club Nobilis",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a71353a2c017231325b724f0c",
+    "name": "Dolomitengolf Hotel & Spa",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a71353a2c01727e9fbd1813df",
+    "name": "Crete Golf Club & Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a71353a2c017283d285ff7d52",
+    "name": "Hipotels Playa de Palma Palace",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a71353a2c017298860f642465",
+    "name": "Fancourt Hotel & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a72db6b2e0172e0afef873fb4",
+    "name": "Lindner Hotel & Sporting Club Wiesensee",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a73107d1a017347873b484dcd",
+    "name": "Kempinski Hotel Das Tirol",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a73107d1a01734cab76025763",
+    "name": "Das Ludwig Quellness- und Golfhotel",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a73107d1a01734cadcd5a4bc1",
+    "name": "Maximilian Quellness- und Golfhotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a73107d1a01736b59e95b3c38",
+    "name": "Gut Apeldör",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a73107d1a01736ba7b0ed74d8",
+    "name": "Steigenberger Hotel & Resort Camp de Mar",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a73107d1a01739024b9bf4552",
+    "name": "Golfpark Strelasund",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a73107d1a0173b484b6ff06e5",
+    "name": "Las Terrazas de Abama",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a73107d1a0173bd59d0ed5994",
+    "name": "Almdorf Seinerzeit",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a73e43dca0173eba828583127",
+    "name": "Hyatt Place Taghazout Bay",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a73e43dca0174019cbaea4993",
+    "name": "Sugar Beach Golf & Spa Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a73e43dca01740bb090e4583e",
+    "name": "Hotel La Vida - PGA Catalunya Resort",
+    "hot_category": 3
+  },
+  {
+    "uuid": "8aef9d8a73e43dca0174e37a8aa85e57",
+    "name": "Barceló Montecastillo",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a75276e3c01754a2e0cd664b0",
+    "name": "TUI Blue Il Castelfalfi",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a75276e3c0175b3e16fdc720f",
+    "name": "The Ritz-Carlton Abama",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a75276e3c0175c16dd9241c93",
+    "name": "Chervó Golf Hotel Spa & Resort San Vigilio",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a75276e3c01762271ee2d3e3a",
+    "name": "Penina Hotel & Golf Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a75276e3c0176fd35659a4d41",
+    "name": "Gloria Verde Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a795a6cf40179a4ea163b02e5",
+    "name": "Minthis Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a795a6cf4017a1e7016ad3993",
+    "name": "Conrad Algarve",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a795a6cf4017af6c264702be8",
+    "name": "Sheraton La Caleta",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a795a6cf4017af6fad922025f",
+    "name": "Sheraton Beach Golf & Spa Fuerteventura",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a795a6cf4017b06b9e0e467bf",
+    "name": "Elba Palace Golf & Vital Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a795a6cf4017b16199b1d552a",
+    "name": "Constance Belle Mare Plage",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a795a6cf4017b39c1342c04b1",
+    "name": "Four Seasons Anahita Golf & Spa Resort",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a795a6cf4017b5e280ef11479",
+    "name": "Sueno Deluxe Belek",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a795a6cf4017b5e4ce7615a65",
+    "name": "Sueno Golf Hotel",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a7b9d7520017bbaa9e5185609",
+    "name": "Dolce CampoReal",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7b9d7520017be8d2c8a85431",
+    "name": "Constance Prince Maurice",
+    "hot_category": 6
+  },
+  {
+    "uuid": "8aef9d8a7b9d7520017be9285ff6131b",
+    "name": "Dinarobin Beachcomber Hotel Golf & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7b9d7520017be956f3974899",
+    "name": "Shangri-La's Le Touessrok Resort & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7b9d7520017be980a55c2405",
+    "name": "Anahita Golf & Spa Resort Mauritius",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7b9d7520017be9ab5e4f0e7a",
+    "name": "Heritage Awali Golf & Spa Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c036eeeb8263c",
+    "name": "Kenzi Rose Garden",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c070500033437",
+    "name": "Radisson Blu Hotel Marrakech",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c07dfd4b005ae",
+    "name": "Praia Verde Boutique Hotel",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c084cd14b5810",
+    "name": "Penha Longa Hotel & Golf Resort",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c0c419ab57466",
+    "name": "Arabella Hotel & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c0c8546477219",
+    "name": "Erinvale Estate Hotel & Spa",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c0cc0b4830377",
+    "name": "Gondwana Game Reserve",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c0cf5e5217c9c",
+    "name": "Lanzerac Wine Estate Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c0d2ef4631a73",
+    "name": "Oubaai Hotel Golf & Spa",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c0d6069ab0720",
+    "name": "The Portswood Hotel",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c0d91bba809bf",
+    "name": "Steenberg Hotel & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c0dadb3396430",
+    "name": "The Commodore Hotel",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7bf52942017c27807b14739d",
+    "name": "The Turbine Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017c4f6383f313b7",
+    "name": "Vineyard Hotel",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017c5049eead30d4",
+    "name": "Wedgeview Country House",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017c544f12744162",
+    "name": "Buhala Lodge",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017c54ced8f56883",
+    "name": "Entabeni Game Reserve",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017c55a62ea70acf",
+    "name": "Sheraton Pretoria",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017c938cd03e6786",
+    "name": "TUI Blue Fleesensee",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017cdaae0ce5052b",
+    "name": "Viva Golf Adults Only",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017ce63e4b1b157a",
+    "name": "Viva Suites & Spa Aduts Only",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017d22f51aa57777",
+    "name": "Viva Cala Mesquida Resort & Spa",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017d2d00b2e64f3b",
+    "name": "Corfu Holiday Palace",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017d2e11ff9f64d5",
+    "name": "Steigenberger El Gouna",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017d2e1282b96ea1",
+    "name": "The Cascades Golf Resort & Spa",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017d4778e2300ee1",
+    "name": "Mövenpick Resort Soma Bay",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017d47895e8d36f7",
+    "name": "Sheraton Soma Bay Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017d514fa16b467f",
+    "name": "Pestana Vila Sol Vilamoura Hotel",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7c3bf419017db36480623a17",
+    "name": "The Westin Grande Sukhumvit",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7db3c612017db8f89a8c7433",
+    "name": "Angsana Laguna Phuket",
+    "hot_category": 5
+  },
+  {
+    "uuid": "8aef9d8a7db3c612017db92ca3e753bf",
+    "name": "Four Points by Sheraton Phuket Patong Beach Resort",
+    "hot_category": 4
+  },
+  {
+    "uuid": "8aef9d8a7db3c612017dbd605f7f2f5c",
+    "name": "Hilton Hua Hin Resort & Spa",
+    "hot_category": ""
+  },
+  {
+    "uuid": "8aef9d8a7db3c612017eafd4d2821903",
+    "name": "Precise Golf Resort El Rompido",
+    "hot_category": 4
+  }
+]

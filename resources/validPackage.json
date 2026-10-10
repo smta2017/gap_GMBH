@@ -1,0 +1,60 @@
+    {
+        "Code": "GMZ1110P",
+        "Name": "Jardin Tecina Paket",
+        "EarliestDepartureDateFrom": "\/Date(1698793200000+0100)\/ (corresponds to: 2023-11-01)",
+        "LatestReturnDate": "\/Date(1698706800000+0100)\/ (corresponds to: 2023-10-31)",
+         
+        "Bookability": 0,
+        "Requirement": "P  ",
+        "HasDurationRestrictions": false,
+        "HasArrivalDepartureRestrictions": false,
+        "LatestDepartureDate": "\/Date(1698793200000+0100)\/ (corresponds to: 2023-11-01)"
+    },
+    {
+        "Code": "DUBPRO01",
+        "Name": "Grand Hotel Dublin - Pro PAKET Schuster&Lubenau",
+        "EarliestDepartureDateFrom": "\/Date(1691359200000+0200)\/ (corresponds to: 2023-08-07)",
+        "LatestReturnDate": "\/Date(1691704800000+0200)\/ (corresponds to: 2023-08-11)",
+         
+        "Bookability": 5,
+        "Requirement": "P  ",
+        "HasDurationRestrictions": false,
+        "HasArrivalDepartureRestrictions": false,
+        "LatestDepartureDate": "\/Date(1691359200000+0200)\/ (corresponds to: 2023-08-07)"
+    },
+    {
+        "Code": "VAR31331",
+        "Name": "Thracian Cliffs Resort - Ihre Golfreise mit Karl Buckl",
+        "EarliestDepartureDateFrom": "\/Date(1696629600000+0200)\/ (corresponds to: 2023-10-07)",
+        "LatestReturnDate": "\/Date(1697234400000+0200)\/ (corresponds to: 2023-10-14)",
+         
+        "Bookability": 0,
+        "Requirement": "P  ",
+        "HasDurationRestrictions": false,
+        "HasArrivalDepartureRestrictions": false,
+        "LatestDepartureDate": "\/Date(1696629600000+0200)\/ (corresponds to: 2023-10-07)"
+    },
+    {
+        "Code": "PMIPRO31061P",
+        "Name": "Pula Golf Resort - Eine erlebnisreiche Golfreise mit Robert Schmalfu\u00df",
+        "EarliestDepartureDateFrom": "\/Date(1699138800000+0100)\/ (corresponds to: 2023-11-05)",
+        "LatestReturnDate": "\/Date(1699743600000+0100)\/ (corresponds to: 2023-11-12)",
+         
+        "Bookability": 0,
+        "Requirement": "P  ",
+        "HasDurationRestrictions": false,
+        "HasArrivalDepartureRestrictions": false,
+        "LatestDepartureDate": "\/Date(1699138800000+0100)\/ (corresponds to: 2023-11-05)"
+    },
+    {
+        "Code": "GRJRR73123",
+        "Name": "S\u00fcdafrikas Highlights-Ihre erlebnisreiche Golfreise mit Felix Lubenau",
+        "EarliestDepartureDateFrom": "\/Date(1700175600000+0100)\/ (corresponds to: 2023-11-17)",
+        "LatestReturnDate": "\/Date(1701212400000+0100)\/ (corresponds to: 2023-11-29)",
+         
+        "Bookability": 0,
+        "Requirement": "P  ",
+        "HasDurationRestrictions": false,
+        "HasArrivalDepartureRestrictions": false,
+        "LatestDepartureDate": "\/Date(1700175600000+0100)\/ (corresponds to: 2023-11-17)"
+    }

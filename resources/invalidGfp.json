@@ -1,0 +1,203 @@
+{
+    "Packages": [
+        {
+            "PackageBookingCode": "VAR31331",
+            "Schedules": [
+                {
+                    "From": "/Date(1690840800000+0200)/",
+                    "To": "/Date(1691445600000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1690840800000+0200)/",
+                    "To": "/Date(1692050400000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1690848000000+0200)/",
+                    "To": "/Date(1691971200000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1690927200000+0200)/",
+                    "To": "/Date(1691532000000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1690927200000+0200)/",
+                    "To": "/Date(1692136800000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691013600000+0200)/",
+                    "To": "/Date(1691618400000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691013600000+0200)/",
+                    "To": "/Date(1692223200000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691100000000+0200)/",
+                    "To": "/Date(1691704800000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691100000000+0200)/",
+                    "To": "/Date(1692309600000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691186400000+0200)/",
+                    "To": "/Date(1691791200000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691186400000+0200)/",
+                    "To": "/Date(1692396000000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691272800000+0200)/",
+                    "To": "/Date(1691877600000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691272800000+0200)/",
+                    "To": "/Date(1692482400000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691359200000+0200)/",
+                    "To": "/Date(1691964000000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691359200000+0200)/",
+                    "To": "/Date(1692568800000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691445600000+0200)/",
+                    "To": "/Date(1692050400000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691445600000+0200)/",
+                    "To": "/Date(1692655200000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691532000000+0200)/",
+                    "To": "/Date(1692136800000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691532000000+0200)/",
+                    "To": "/Date(1692741600000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691618400000+0200)/",
+                    "To": "/Date(1692223200000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691618400000+0200)/",
+                    "To": "/Date(1692828000000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691704800000+0200)/",
+                    "To": "/Date(1692309600000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691704800000+0200)/",
+                    "To": "/Date(1692914400000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691791200000+0200)/",
+                    "To": "/Date(1692396000000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691791200000+0200)/",
+                    "To": "/Date(1693000800000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691877600000+0200)/",
+                    "To": "/Date(1692482400000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691877600000+0200)/",
+                    "To": "/Date(1693087200000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691964000000+0200)/",
+                    "To": "/Date(1692568800000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                },
+                {
+                    "From": "/Date(1691964000000+0200)/",
+                    "To": "/Date(1693173600000+0200)/",
+                    "Bookability": 0,
+                    "OccupancyBoards": []
+                }
+            ],
+            "ResultInfos": [
+                "29 Termine/Dauern - Kombinationen wurden erstellt",
+                "Die Paketleistungsart(en)  für 16 Leistungen innerhalb des Pakets wurden auf der Datenbank gefunden",
+                "Die Paketleistungsart(en)  für 16 Leistungen innerhalb des Pakets passen zu den Selektionskriterien (z.B. Anzahl Teilnehmer) und werden berechnet"
+            ],
+            "PackageRequirement": "P"
+        }
+    ],
+    "ResultInfos": [
+        "Das letztes Update für Paketdaten war am 05/07/2023 08:48:59",
+        "Das letztes Update für Unterkunftsdaten war am 05/07/2023 08:48:59",
+        "Das letztes Update für Flugdaten war am 05/07/2023 08:48:59",
+        "Das letztes Update für Schiffsleistungen war am 05/07/2023 08:49:00",
+        "Das letztes Update für Versicherungen war am 05/07/2023 08:48:59",
+        "Das letztes Update für Zusatzleistungsdaten war am 05/07/2023 08:48:59",
+        "Das letztes Update für Transportleistungen war am 05/07/2023 08:48:59",
+        "0 Preisberechnungen wurden für alle Leistungen ausgeführt",
+        "549,04 ms wurden für die Kalkulation benötigt (sequentielle Zeit)",
+        "0,00 ms wurden für die Verfügbarkeitsberechnungen benötigt (parallele Zeit), davon 0,00 (ms) für Schiffsvakanzverfügbarkeiten",
+        "0,00 ms wurden für die Preisberechnungen benötigt (parallele Zeit) - Schnellste 0,00 (ms) für 0 Leistung(en) - Längste 0,00 (ms) für 0 Leistung(en) - Durchschnittl. NaN (ms)",
+        "Verwendetete Datenbankverbindung: Data Source=BewoASP-SQLDV01;Failover Partner=BewoASP-MIS01;Initial Catalog=GGL_PROD01;Integrated Security=False;User ID=ggl;Password=*****"
+    ]
+}

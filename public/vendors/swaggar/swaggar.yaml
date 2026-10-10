@@ -1,0 +1,249 @@
+openapi: 3.0.0
+info:
+  title: WFS API
+  description: WFS API Documentation, 
+  version: 2.0.0
+servers:
+  - url: https://gap-sapi.golfglobe.com/public/api
+    description: Main Live Server
+components:
+  securitySchemes:
+    bearerAuth:            # arbitrary name for the security scheme
+      type: http
+      scheme: bearer
+      bearerFormat: JWT    # optional, arbitrary value for documentation purposes
+tags:
+  - name: authentication
+    description: Authentication Endpoints, to allow user login in to the system
+  - name: user
+    description: User Profile Endpoints
+paths:
+  /login:
+    post:
+      summary: user login.
+      description: endpoint to allow user login,
+      tags:
+        - authentication
+      parameters:
+        - in: path
+          name: username
+          schema:
+            type: string
+          required: true
+          description: Represent user unique username
+        - in: path
+          name: password
+          schema:
+            type: string
+          required: true
+          description: Represent user password
+      responses:
+        '200':
+          description: user login success
+        '401':
+          description: Username or Password is incorrect
+        '422':
+          description: 422 Unprocessable Entity ( Validation Error )
+  /forget-password:
+    post:
+      summary: Forget Password.
+      description: ForgetPassword Endpoint, allow user to restore his password
+      tags:
+        - authentication
+      parameters:
+        - in: path
+          name: email
+          schema:
+            type: string
+          required: true
+          description: Represent User Email
+        - in: path
+          name: route_url
+          schema:
+            type: string
+          required: true
+          description: Represent The Return URL
+      responses:
+        '200':
+          description: Process Done Successfully
+        '404':
+          description: user email is not exists
+  /forget-password/store:
+    post:
+      summary: New Password (Forget Password) .
+      description: ForgetPassword Endpoint, user will be able to add new password
+      tags:
+        - authentication
+      parameters:
+        - in: path
+          name: password
+          schema:
+            type: string
+          required: true
+          description: Represent User New Password ( Min 6 Chars )
+        - in: path
+          name: password_confirmation
+          schema:
+            type: string
+          required: true
+          description: Represent User New Password Confirmation
+        - in: path
+          name: token
+          schema:
+            type: string
+          required: true
+          description: Represent The URL Query String Token
+      responses:
+        '200':
+          description: Process Done Successfully
+        '404':
+          description: user or token not found
+        '401':
+          description: token is not correct
+  /user:
+    get:
+      summary: user profile.
+      description: endpoint to return user info,
+      security:
+        - bearerAuth: []
+      tags:
+        - user
+      responses:
+        '200':
+          description: user data return success
+  /update-profile:
+    put:
+      summary: update user profile.
+      description: put request to update user details,
+      security:
+        - bearerAuth: []
+      tags:
+        - user
+      parameters:
+        - in: path
+          name: first_name
+          schema:
+            type: string
+          required: true
+          description: Represent User First Name
+        - in: path
+          name: last_name
+          schema:
+            type: string
+          required: true
+          description: Represent User Last Name
+        - in: path
+          name: email
+          schema:
+            type: string
+          required: true
+          description: Represent User Email, must be unique
+        - in: path
+          name: mobile_number
+          schema:
+            type: string
+          required: true
+          description: Represent User Mobile Number
+        - in: path
+          name: department
+          schema:
+            type: string
+          required: true
+          description: Represent User Department
+        - in: path
+          name: title
+          schema:
+            type: string
+          required: true
+          description: Represent User Title
+      responses:
+        '200':
+          description: user updated success
+  /update-image:
+    post:
+      summary: update user image.
+      description: update user profile image,
+      security:
+        - bearerAuth: []
+      tags:
+        - user
+      parameters:
+        - in: path
+          name: image
+          schema:
+            type: file
+          required: true
+          description: Represent User Profile Image
+      responses:
+        '200':
+          description: user updated success
+  /remove-image:
+    post:
+      summary: remove user image.
+      description: remove user profile picture,
+      security:
+        - bearerAuth: []
+      tags:
+        - user
+      responses:
+        '200':
+          description: user updated success
+  /reset-password:
+    post:
+      summary: reset user password.
+      description: change user password from inside profile,
+      security:
+        - bearerAuth: []
+      tags:
+        - user
+      parameters:
+        - in: path
+          name: old_password
+          schema:
+            type: string
+          required: true
+          description: Represent User old password
+        - in: path
+          name: password
+          schema:
+            type: string
+          required: true
+          description: Represent User new password
+        - in: path
+          name: password_confirmation
+          schema:
+            type: string
+          required: true
+          description: Represent User new password confirmation
+      responses:
+        '200':
+          description: user password updated success
+  /check-email:
+    post:
+      summary: check if the email is valid.
+      description: check if the requested email is unique and valid,
+      security:
+        - bearerAuth: []
+      tags:
+        - user
+      parameters:
+        - in: path
+          name: email
+          schema:
+            type: string
+          required: true
+          description: Represent the email address to check
+      responses:
+        '200':
+          description: data return successfully
+  /logout:
+    post:
+      summary: logout.
+      description: endpoint to logout the user,
+      security:
+        - bearerAuth: []
+      tags:
+        - user
+      responses:
+        '200':
+          description: user logout successfully
